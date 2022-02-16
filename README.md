@@ -1,10 +1,11 @@
 # Introduce me
-## Badge
+
+## Badge ✨
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgldgldgld)](https://github.com/dlgldgldgld/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgldgld)](https://solved.ac/dlgldgld/)
 
 
-## Skill 🛡️
+## Skill 🧰
 ### Programming Language
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-bacge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-bacge&logo=C%2B%2B&logoColor=white)
@@ -27,7 +28,7 @@
 ![SVN](https://img.shields.io/badge/SVN-4495D1.svg?&style=for-the-bacge&logo=Svn&logoColor=white)
 
 
-## 🌱 I’m currently learning this
+## I’m currently learning this 🌱
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E.svg?&style=for-the-bacge&logo=AmazonAWS&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31.svg?&style=for-the-bacge&logo=AmazonS3&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-bacge&logo=Kubernetes&logoColor=white)
