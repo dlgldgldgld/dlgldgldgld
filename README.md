@@ -1,9 +1,9 @@
 # Introduce me
 
-## Badge ✨
+## Stat ✨
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgldgldgld)](https://github.com/dlgldgldgld/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api/top-langs?username=dlgldgldgld&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=D65476&icon_color=D65476&text_color=BA5A6F)](https://github.com/dlgldgldgld)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlgldgld)](https://solved.ac/dlgldgld/)
-
 
 ## Skill 🧰
 ### Programming Language
