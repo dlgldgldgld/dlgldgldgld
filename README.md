@@ -10,7 +10,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-bacge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-bacge&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-bacge&logo=Python&logoColor=white)
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-bacge&logo=scala&logoColor=white)
 
 ### DataBase
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-bacge&logo=SQLite&logoColor=white)
