@@ -10,10 +10,15 @@
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-bacge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-bacge&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-bacge&logo=Python&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 
 ### DataBase
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-bacge&logo=SQLite&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927.svg?&style=for-the-bacge&logo=MicrosoftSQLServer&logoColor=white)
+
+### Data Processing
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE.svg?&style=for-the-bacge&logo=ApacheAirflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C.svg?&style=for-the-bacge&logo=ApacheSpark&logoColor=white)
 
 ### Collaboration
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-bacge&logo=Jira&logoColor=white)
@@ -29,6 +34,3 @@
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31.svg?&style=for-the-bacge&logo=AmazonS3&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-bacge&logo=Kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-bacge&logo=Docker&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE.svg?&style=for-the-bacge&logo=ApacheAirflow&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C.svg?&style=for-the-bacge&logo=ApacheSpark&logoColor=white)
-And Kafka, ELK..
